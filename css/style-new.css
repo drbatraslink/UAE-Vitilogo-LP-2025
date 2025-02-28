@@ -179,7 +179,7 @@ header{background:#fef6e2;position:fixed;top:0;z-index:1000!important}
 .treatment_all_comm_div .owl-dot span{width:12px;height:12px;background-color:#9c9c9c;display:block;border-radius:50%;transition:background-color .3s ease}
 .treatment_all_comm_div .owl-dot.active span{background-color:#1b3c62;border:2px solid #fff;outline:2px solid #1b3c62}
 @media(max-width:1299px){
-.treatment_all_comm_div .pcos-rating-box{height:350px}
+.treatment_all_comm_div .pcos-rating-box{height:395px}
 }
 @media(max-width:600px){
 .treatment_all_comm_div.pcos_text_testmonilas{margin-top:30px}
